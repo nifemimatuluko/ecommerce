@@ -1,2 +1,2 @@
-this is is fullstack Ecommerce system built with technogies like nodejs, mongodb, html and css
+This is is fullstack Ecommerce system built with technologies like nodejs,mongodb, html,css and paystack api 
 to start the server : node app.js
